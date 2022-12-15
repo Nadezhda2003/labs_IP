@@ -1,0 +1,5 @@
+3
+12.5 "Coldrex" 2024 <Medicine> 10
+"Doxiciclin" 2022 16.5 <Medicine> 20
+"Alphabet" 2025 <Vitanin> 20 0.5
+"Alphabet"
