@@ -1,0 +1,4 @@
+20 friend
+15 Hello
+12 world
+1 House

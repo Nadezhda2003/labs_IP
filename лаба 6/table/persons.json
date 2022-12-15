@@ -1,0 +1,40 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "userName": "Nadezhda",
+      "email": "nadia.bazhanova@gmail.com",
+      "active": false
+    },
+    {
+      "id": 2,
+      "userName": "Derek",
+      "email": "hope_forever@gmail.com",
+      "active": false
+    },
+    {
+      "id": 3,
+      "userName": "Lera",
+      "email": "lera@gmail.com",
+      "active": false
+    },
+    {
+      "id": 4,
+      "userName": "Andrey",
+      "email": "andrey2011@gmail.com",
+      "active": false
+    },
+    {
+      "id": 5,
+      "userName": "Женя",
+      "email": "evgeniy@gmail.com",
+      "active": false
+    },
+    {
+      "id": 6,
+      "userName": "Глеб",
+      "email": "gleb@gmail.com",
+      "active": false
+    }
+  ]
+}
